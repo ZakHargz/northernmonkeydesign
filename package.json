@@ -1,11 +1,12 @@
 {
-  "name": "nextchakra-starter",
+  "name": "northernmonkeydesign.co.uk",
   "version": "0.1.0",
   "private": true,
-  "author": "sozonome",
+  "author": "Zak Hargreaves",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "prettify": "prettier --write src/"
   },
