@@ -1,4 +1,4 @@
-const optimizedImages = require('next-optimized-images');
+import optimizedImages from 'next-optimized-images';
 
 module.exports = {
   exportPathMap: function () {
