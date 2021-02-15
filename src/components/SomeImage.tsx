@@ -7,7 +7,7 @@ const SomeImage = () => {
   return (
     <>
       <Box marginY={8} maxWidth={500} marginX="auto">
-	<Imgix src="/nmd.JPG" width={500} height={500} />
+	<Imgix src="./nmd.JPG" width={500} height={500} />
       </Box>
     </>
   );
